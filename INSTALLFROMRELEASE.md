@@ -1,6 +1,6 @@
-#install
+# install
 
-#from release
+# from release
 
 installing from release is the **most recommended** installation method because it provide you a stable version of the code
 
@@ -13,7 +13,7 @@ and to uninstall, execute:
 make uninstall
 ```
 
-#from github code rn
+# from github code rn
 
 |Os|command|
 |-|-|
